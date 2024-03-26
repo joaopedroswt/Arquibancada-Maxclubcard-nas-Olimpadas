@@ -8,7 +8,6 @@
 - Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faça o commit com uma mensagem "Finalizado o teste de tecnologia";
 - Commit após cada ciclo de refatoração pelo menos;
 - Não use branches;
-- Tente concluir o projeto em até 4 horas;
 - Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona utilizando os dados de teste contidos na planilha excel denro da pasta "/massa-de-dados";
 - Crie uma pasta "/documentos/" adicione o arquivo instruçoes-executar-projeto.md, para disponibilizar as instruções para execusão do seu projeto.
 
@@ -33,6 +32,7 @@ Para entrega do exercício, considere os seguintes serviços:
 - Cadastrar Cartões do cliente na campanha (Use os dados do cartão do cliente contidos na planilha);
 - Simular a transação do cartão e gerar números da sorte;
 - Efetuar os sorteios;
+- A collection para efeturamos as chamadas (Pode ser no POstman). Se tiver o swagger, será um diferencial.
 
 *<h4>Você deverá, obrigatoriamente, utilizar as seguintes tecnologias</h4>*
 
