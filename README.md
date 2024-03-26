@@ -1,4 +1,4 @@
-<h1>Prova técnica Teste de API</h1>
+<h1>Prova técnica de backend API/h1>
 
 <h2>Instruções</h2>
  
@@ -14,7 +14,7 @@
 
 <h2>Problema a ser resolvido</h2>
 
-A Elo a partir de 2024, será uma das patrocinadoras oficiais das Olimpíadas. O time de Marketing e Campanhas da Elo, em parceira com seus Bancos parceiros, vão lançar, em Abril 2024, para seus clientes, a campanha/promoção "Arquibancada Elo nas Olimpíadas". A campanha consiste em sortear, de Abril/24 a Jun/24, 1 cliente por semana para assistirem os jogos olímpicos. Cada ganhador, terá o direito de levar um acompanhante de sua escolha. Os portadores que se cadastraram na campanha com seus cartões de crédito ou débito da bandeira Elo, poderão ganhar seus números da sorte efetuando compras no valor mínimo de R$ 150,00.
+A Bandeira de Cartão de Crédito **Maxclubcard** a partir de 2024, será uma das patrocinadoras oficiais das Olimpíadas. O time de Marketing e Campanhas da bandeira, em parceira com seus bancos parceiros, vão lançar, em Abril 2024, para seus clientes, a campanha/promoção "Arquibancada Maxclubcard nas Olimpíadas". A campanha consiste em sortear, de Abril/24 a Jun/24, 1 cliente por semana para assistirem os jogos olímpicos. Cada ganhador, terá o direito de levar um acompanhante de sua escolha. Os portadores que se cadastraram na campanha com seus cartões de crédito ou débito da bandeira Maxclubcard, poderão ganhar seus números da sorte efetuando compras no valor mínimo de R$ 150,00.
 
 <h2>Regras de Negócios</h2>
 
