@@ -35,7 +35,7 @@ Para entrega do exercício, considere os seguintes serviços:
 - Simular a transação do cartão e gerar números da sorte;
 - Efetuar os sorteios;
 
-*<h4>Você deverá, obrigatoriamente, utiliar as seguintes tecnologias</h4>*
+*<h4>Você deverá, obrigatoriamente, utilizar as seguintes tecnologias</h4>*
 
 - Java 11 em diante;
 - Framework Spring (Boot, Security, etc.);
