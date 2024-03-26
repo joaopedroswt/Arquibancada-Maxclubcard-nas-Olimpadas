@@ -10,7 +10,7 @@
 - Não use branches;
 - Tente concluir o projeto em até 4 horas;
 - Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona utilizando os dados de teste contidos na planilha excel denro da pasta "/massa-de-dados";
-- Inclua na pasta "/documentos/" o arquivo instruçoes-executar-projeto.md, para disponibilizar as instruções para execusão do seu projeto.
+- Crie uma pasta "/documentos/" adicione o arquivo instruçoes-executar-projeto.md, para disponibilizar as instruções para execusão do seu projeto.
 
 <h2>Problema a ser resolvido</h2>
 
@@ -39,7 +39,7 @@ Para entrega do exercício, considere os seguintes serviços:
 - Java 11 em diante;
 - Framework Spring (Boot, Security, etc.);
 - Banco de Dados a seu critério (Sugiro: MySql ou SQL);
-- Faça o teste unitário na classe que vai transacionar e gerar o número da sorte via JUNIT (Será um diferencial se entregar mais classes com testes).
+- Faça o teste unitário de pelo menos uma classe que contenha bastante regras de negócio utilizando JUNIT.
 
 <h2>Como você será avaliado</h2>
 
