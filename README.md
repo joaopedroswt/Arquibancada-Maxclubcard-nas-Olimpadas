@@ -19,8 +19,8 @@ A Elo a partir de 2024, será uma das patrocinadoras oficiais das Olimpíadas. O
 <h2>Regras de Negócios</h2>
 
 - Uma campanha deve ser cadastrada no periodo estimado acima;
-- O cliente precisa efetuar um cadastro para campanha; 
-- O cliente poderá cadastrar todos os seus cartões da Bandeira Elo;
+- O cliente precisa efetuar um cadastro na campanha; 
+- O cliente precisa cadastrar os seus cartões da Bandeira Elo;
 - A cada compra que o cliente fizer no valor mínimo de R$ 150,00, ele ganha 1 número da sorte;
 - Caso o valor da compra seja maior ou menor, o sistema deverá gardar para que a próxima compra seja somada a esse valor até chegar no valor de R$ 150,00 e disponibilizar o número da sorte;
 - Os bilhetes sorteados deverão possuir uma identificação a ser retornada na lista de números da sorte co cliente. 
@@ -30,9 +30,10 @@ A Elo a partir de 2024, será uma das patrocinadoras oficiais das Olimpíadas. O
 Para entrega do exercício, considere os seguintes serviços:
 
 - Cadastrar Campanha;
-- Cadastrar cliente na campanha (não se preocupe com login, senha. Use apenas os dados do cliente contidos na planilha); 
+- Cadastrar cliente na campanha (Use os dados do cliente contidos na planilha); 
+- Cadastrar Cartões do cliente na campanha (Use os dados do cartão do cliente contidos na planilha);
 - Simular a transação do cartão e gerar números da sorte;
-- Efetuar os sorteios.
+- Efetuar os sorteios;
 
 *<h4>Você deverá, obrigatoriamente, utiliar as seguintes tecnologias</h4>*
 
