@@ -1,10 +1,10 @@
-<h1>Prova técnica de backend API/h1>
+<h1>Prova técnica de backend API</h1>
 
 <h2>Instruções</h2>
  
 - A aplicação deve executar;
 - Realize um fork do projeto;
-- Adicione @helton-maia, @TiagoRafaelLorenzetti1980, <colocar o uso do Odione> como membro do seu fork. Você pode fazer isto em https://gitlab.com/'your-user'/tech-test-train/settings/members;
+- Adicione @helton-maia, @TiagoRafaelLorenzetti1980, como membro do seu fork. Você pode fazer isto em https://gitlab.com/'your-user'/tech-test-train/settings/members;
 - Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faça o commit com uma mensagem "Finalizado o teste de tecnologia";
 - Commit após cada ciclo de refatoração pelo menos;
 - Não use branches;
